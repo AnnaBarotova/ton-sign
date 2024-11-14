@@ -1,0 +1,6 @@
+/.pnp.loader.mjs
+/.pnp.cjs
+/node_modules/
+/.yarn/
+.yarnrc.yml
+.idea
