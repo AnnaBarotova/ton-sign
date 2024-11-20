@@ -1,8 +1,6 @@
 import { mnemonicToPrivateKey, sign} from "@ton/crypto";
 
 import { Cell, beginCell, Address } from "@ton/core";
-import { WalletContractV4, TonClient }  from "@ton/ton";
-import {signature} from "bitcoinjs-lib/src/script";
 
 (async () => {
 

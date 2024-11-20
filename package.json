@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
-
     "@ton/core": "^0.59.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.1.0",
@@ -25,6 +25,7 @@
     "tiny-secp256k1": "^2.2.3",
     "tonweb": "^0.0.66",
     "tonweb-mnemonic": "^1.0.1",
+    "ts-node": "^10.9.2",
     "wif": "^5.0.0"
   }
 }
